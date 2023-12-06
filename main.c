@@ -471,7 +471,6 @@ void menu() {
                     "                                                                                         \n"
                     "                                                                                         \n");
 
-
     int choice;
     char studentID[8];
 
