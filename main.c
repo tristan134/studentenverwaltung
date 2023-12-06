@@ -4,11 +4,11 @@
 #include <stdbool.h>
 #include <ctype.h>
 
-/* MacOS-Version! Read below:
- * Bibliothek auf Unix nicht verfügbar. Unter aber Windows möglich.
- *
-#include <conio.h>
- *
+/* Funktionelle-Version!
+ * Bibliothek auf Unix nicht verfügbar, unter Windows aber schon.
+ */
+//#include <conio.h>
+ /*
  * Im Menü (ab Zeile 480) sind Funktionen aufgrund der fehlenden Bibliothek auskommentiert.
  * Unter Windows kann alles aktiviert werden.
  */
