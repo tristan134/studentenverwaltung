@@ -9,7 +9,7 @@
  */
 //#include <conio.h>
  /*
- * Im Menü (ab Zeile 480) sind Funktionen aufgrund der fehlenden Bibliothek auskommentiert.
+ * Im Menü (ab Zeile 475) sind Funktionen aufgrund der fehlenden Bibliothek auskommentiert.
  * Unter Windows kann alles aktiviert werden.
  */
 
@@ -474,7 +474,6 @@ void menu() {
 
     int choice;
     char studentID[8];
-
 
     do {
         //system("cls");
